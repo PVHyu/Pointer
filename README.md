@@ -1,3 +1,5 @@
+pointer.c
+
 Bài 1:
 Viết hàm int *findMax(int *arr, int n)
 → trả về con trỏ trỏ đến phần tử lớn nhất trong mảng.
